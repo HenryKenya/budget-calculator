@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+.main{
+    padding-top: 30px;
+}
+.budget p:hover{
+    cursor: pointer;
+}
+
+.budget p.active{
+    font-weight: bold;
+}
+.total-text{
+    font-weight: bold;
+}
+.budget p.active{
+    color: #b71c1c;
+}
